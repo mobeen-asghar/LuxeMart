@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "category": "Watches",
+    "price": 8500,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury diving watch with ceramic bezel",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Diamond Necklace",
+    "category": "Jewelry",
+    "price": 12000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "18k gold necklace with diamonds",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Hermès Birkin Bag",
+    "category": "Handbags",
+    "price": 25000,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Iconic luxury handbag in premium leather",
+    "rating": 5.0,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Patek Philippe Calatrava",
+    "category": "Watches",
+    "price": 32000,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Classic dress watch with manual winding",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Tiffany Engagement Ring",
+    "category": "Jewelry",
+    "price": 18000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "2-carat diamond solitaire ring",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Christian Louboutin Heels",
+    "category": "Shoes",
+    "price": 1200,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Iconic red-sole stiletto heels",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Chanel No. 5 Perfume",
+    "category": "Perfumes",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Classic luxury fragrance",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Louis Vuitton Wallet",
+    "category": "Accessories",
+    "price": 800,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Monogram canvas wallet",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Cartier Love Bracelet",
+    "category": "Jewelry",
+    "price": 7500,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "18k gold bracelet with screw motif",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Gucci Sunglasses",
+    "category": "Accessories",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Designer sunglasses with logo",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Omega Speedmaster",
+    "category": "Watches",
+    "price": 5500,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Professional moonwatch",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Prada Shoulder Bag",
+    "category": "Handbags",
+    "price": 2200,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Saffiano leather bag",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "Van Cleef & Arpels Earrings",
+    "category": "Jewelry",
+    "price": 15000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Vintage Alhambra earrings",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Tom Ford Cologne",
+    "category": "Perfumes",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Oud Wood fragrance",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Manolo Blahnik Pumps",
+    "category": "Shoes",
+    "price": 950,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Classic pointed-toe pumps",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Bulgari Serpenti Watch",
+    "category": "Watches",
+    "price": 28000,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Snake-inspired luxury watch",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Dior Saddle Bag",
+    "category": "Handbags",
+    "price": 3200,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Iconic curved saddle bag",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Mikimoto Pearl Necklace",
+    "category": "Jewelry",
+    "price": 4500,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Cultured pearl strand",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "Hermès Scarf",
+    "category": "Accessories",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Silk twill scarf",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Creed Aventus",
+    "category": "Perfumes",
+    "price": 385,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury men's fragrance",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Audemars Piguet Royal Oak",
+    "category": "Watches",
+    "price": 45000,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Iconic octagonal sports watch",
+    "rating": 5.0,
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "name": "Chanel Quilted Bag",
+    "category": "Handbags",
+    "price": 8500,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Classic quilted lambskin bag",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Harry Winston Diamond Ring",
+    "category": "Jewelry",
+    "price": 35000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "5-carat diamond ring",
+    "rating": 5.0,
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "Louboutin Sneakers",
+    "category": "Shoes",
+    "price": 1450,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury spike sneakers",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "name": "La Mer Skincare Set",
+    "category": "Beauty",
+    "price": 850,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury skincare collection",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Bottega Veneta Clutch",
+    "category": "Handbags",
+    "price": 1800,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Intrecciato leather clutch",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Chopard Happy Diamonds",
+    "category": "Jewelry",
+    "price": 22000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Moving diamonds watch",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Versace Medusa Belt",
+    "category": "Accessories",
+    "price": 650,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Iconic medusa buckle belt",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Maison Margiela Fragrance",
+    "category": "Perfumes",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Jazz Club fragrance",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Jimmy Choo Sandals",
+    "category": "Shoes",
+    "price": 750,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Strappy leather sandals",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "IWC Pilot Watch",
+    "category": "Watches",
+    "price": 6200,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Aviation-inspired timepiece",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Goyard Tote Bag",
+    "category": "Handbags",
+    "price": 2800,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Canvas and leather tote",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Graff Diamond Bracelet",
+    "category": "Jewelry",
+    "price": 65000,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Multi-diamond tennis bracelet",
+    "rating": 5.0,
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Berluti Oxfords",
+    "category": "Shoes",
+    "price": 1800,
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Hand-patinated leather shoes",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Byredo Perfume",
+    "category": "Perfumes",
+    "price": 195,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Bal d'Afrique fragrance",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "Montblanc Fountain Pen",
+    "category": "Accessories",
+    "price": 1200,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Meisterstück fountain pen",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "name": "Breguet Classique",
+    "category": "Watches",
+    "price": 18000,
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Traditional dress watch",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Moynat Briefcase",
+    "category": "Handbags",
+    "price": 4500,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury leather briefcase",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "name": "Buccellati Cuff",
+    "category": "Jewelry",
+    "price": 8900,
+    "image": "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Textured gold cuff bracelet",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "name": "Diptyque Candle Set",
+    "category": "Beauty",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "description": "Luxury scented candle collection",
+    "rating": 4.6,
+    "inStock": true
+  }
+]
